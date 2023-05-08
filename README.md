@@ -1,7 +1,9 @@
 Weather App
+
 Welcome to the Weather App! This application provides you with real-time weather information for any location worldwide. Stay up-to-date with the latest weather conditions, forecasts, and more. Whether you're planning a trip, going for a run, or simply curious about the weather, this app has got you covered!
 
 Features
+
 Current Weather: Get the current weather conditions, including temperature, humidity, wind speed, and visibility, for any location.
 
 
